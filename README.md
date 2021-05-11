@@ -1,3 +1,4 @@
+![CodeCogsEqn](https://user-images.githubusercontent.com/70815390/117833010-f3d8ec00-b2b0-11eb-93ba-c978465f0030.png)
 # SongDoHighSchool
 송도고 활동 이모저모를 기록하자!
 
