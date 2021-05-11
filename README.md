@@ -6,4 +6,4 @@
 1반 = ![CodeCogsEqn](https://user-images.githubusercontent.com/70815390/117833010-f3d8ec00-b2b0-11eb-93ba-c978465f0030.png)반
 
 ## 봉사활동 이런거 하면 좋을 듯!
-![](SongDoHighSchoo/봉사활동_절차.png)
+![](봉사활동 절차.png)
